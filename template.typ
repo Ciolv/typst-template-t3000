@@ -32,6 +32,7 @@
   set page(
     paper: "a4",
     margin: (x: 41.5pt, top: 75.51pt, bottom: 89.51pt),
+    numbering: "1",
   )
 
   // Configure equation numbering and spacing.
